@@ -165,7 +165,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"Jump","value":{"$content":400.0,"$type":"System.Single"},"$version":"A"},{"name":"Speed","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"Accelerometor
-      Speed","value":{"$content":6.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Speed","value":{"$content":6.0,"$type":"System.Single"},"$version":"A"},{"name":"List
+      Of Platforms","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!4 &468181676
 Transform:
